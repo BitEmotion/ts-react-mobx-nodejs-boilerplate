@@ -1,0 +1,3 @@
+const STR_MESSAGE_SERVER_IS_RUNNING_ON = `서버가 작동중입니다`;
+
+export { STR_MESSAGE_SERVER_IS_RUNNING_ON }

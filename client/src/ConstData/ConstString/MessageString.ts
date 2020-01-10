@@ -1,0 +1,3 @@
+const STR_MESSAGE_THIS_IS_FRONTEND = "프론트 페이지입니다";
+const STR_MESSAGE_NO_DATA = "영화 데이터가 없습니다";
+export { STR_MESSAGE_THIS_IS_FRONTEND, STR_MESSAGE_NO_DATA }

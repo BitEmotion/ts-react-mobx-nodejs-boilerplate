@@ -1,0 +1,3 @@
+const STR_BACKEND_PATH_MOVIEROUTER = `movieRouter`;
+
+export { STR_BACKEND_PATH_MOVIEROUTER }
