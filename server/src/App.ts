@@ -25,6 +25,6 @@ app.get('/', (req, res) => {
     res.send(`${STR_MESSAGE_SERVER_IS_RUNNING_ON}`);
 });
 
-app.listen(process.env.SERVER_PORT, () => {
+app.listen(process.env.SERVER_PORT || 4000, () => {
     console.log(`${STR_MESSAGE_SERVER_IS_RUNNING_ON} ${process.env.SERVER_PORT}`);
 });
