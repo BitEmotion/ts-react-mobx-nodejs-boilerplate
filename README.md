@@ -1,4 +1,5 @@
 == client ==
+
 typescript
 react
 mobx
@@ -9,6 +10,7 @@ npm start
 run localhost:3000
 
 == server ==
+
 typescript
 nodejs
 
