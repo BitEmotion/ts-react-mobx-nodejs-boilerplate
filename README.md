@@ -1,8 +1,6 @@
-== client ==
+### client
 
-typescript
-react
-mobx
+typescript react mobx
 
 1. cd client
 
@@ -10,12 +8,11 @@ mobx
 
 3. npm start
 
-run localhost:3000
+4. go localhost:3000
 
-== server ==
+### server ==
 
-typescript
-nodejs
+typescript nodejs
 
 1. cd server
 
@@ -23,4 +20,4 @@ nodejs
 
 3. npm run dev
 
-run localhost:4000
+4. go localhost:4000
